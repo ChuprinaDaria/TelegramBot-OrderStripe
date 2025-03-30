@@ -1,5 +1,4 @@
 # TelegramBot-OrderStripe
-
 A personal pet project developed for managing custom bot orders via Telegram, integrated with Stripe for payment processing. Deployed on Hetzner Cloud inside a Docker container, this bot was created both for personal use and for handling client requests quickly and securely.
 
 ---
